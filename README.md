@@ -1,6 +1,6 @@
 - 👋 Hi, Myself Muhanish chauhan
-- 👀 I’m interested in new technology
-- 🌱 I’m currently learning java
+- 👀 I’m interested in new technologies.
+- 🌱 I’m currently learning software engineering. 
 - 💞️ I’m looking to collaborate on ...
 - 📫 you can contact me at muhanishchouhan40@gmail.com
 
